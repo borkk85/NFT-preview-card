@@ -55,8 +55,8 @@ h1:hover {
 }
 
 h2 {
-    font-size: 1.25rem;
-    font-weight: var(--fw-bold);
+    font-size: 1rem;
+    font-weight: var(--fw-thin);
 }
 
 .color1 {
